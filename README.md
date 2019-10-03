@@ -1,5 +1,7 @@
 # JS-Challenges
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 <img src="https://media.licdn.com/dms/image/C511BAQHqArTPxU3gMg/company-background_10000/0?e=2159024400&v=beta&t=10xyPsaeWAy28faW2xhUhaNnmyGKiuq-fCNjHviubNM">
 
 :boom: :exclamation: :boom: :exclamation: :boom: :exclamation: :boom: :exclamation: :boom: :exclamation: :boom: :exclamation: 
