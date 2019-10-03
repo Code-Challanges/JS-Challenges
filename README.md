@@ -7,7 +7,7 @@
 ### Repository with many FreeCodeCamp solved challenges. Feel free to contribute! :smiley:
 
 #### Here you can find most of the algorithms needed to get the Front End Development Certification from FreeCodeCamp.
-#### I strongly recommend you to try these yourself first.
+#### I strongly recommend you to try those yourself first.
 
 <img src="Capture.PNG" width="550">
 
